@@ -1,31 +1,23 @@
-# Hi there 👋 I'm Ahmed Abdelghany
+# Hi there 👋
 
-Mobile Application Developer specializing in Flutter & Dart.
+I'm a software engineer and mobile application developer specializing in Flutter & Dart.
 
-- 🔭 I’m currently working on my food store project **Crunch**.
-- 🌱 I’m currently improving my skills in **SOLID Principles** and **Clean Architecture**.
-- 💬 Ask me about **Flutter, Dart, and MVVM architecture**.
-- 📫 How to reach me: [ahmedabdelghany2641997@gmail.com](mailto:ahmedabdelghany2641997@gmail.com)
+- 🔭 I’m currently working on improving my skills as a software engineer.
+- 🌱 I’m currently curious about mobile and backend development.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about Flutter, Dart, Firebase, C++, Python.
+- 📫 How to reach me:
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelghany26/)
 
-### Featured Projects 🚀
+### Some Projects
 
-* **Crunch** - Mobile food store application built with Flutter.
-* **Doctor_App** - Healthcare management application.
-* **EduZone** - Educational platform project.
-* **Shop_App** - E-commerce solution.
+* **Crunch** (Android) (iOS) -
+* **Doctor_App** (Android) (iOS)
+* **EduZone** (Android) (iOS)
+* **Shop_App** (Android) (iOS)
+* **Sociall_app** (Android)
+* **Interntasks** (Android)
 
----
-
-### Technical Skills 🛠️
-
-* **Frameworks:** Flutter.
-* **Languages:** Dart, C++.
-* **Architecture:** MVVM, Clean Architecture.
-* **Tools:** VS Code, Git.
-
----
-
-### GitHub Stats 📊
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelghany2641997&show_icons=true&theme=radical)
+### Github Stats
+![Ahmed's Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelghany2641997&show_icons=true&theme=radical)

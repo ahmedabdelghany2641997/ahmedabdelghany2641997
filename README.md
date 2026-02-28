@@ -1,24 +1,38 @@
-# Hi there 👋
+# Hi there 👋 I'm Ahmed Abdelghany
 
-[cite_start]I'm Ahmed Abdelghany, a Software Engineer and Mobile Application Developer specializing in Flutter & Dart[cite: 1].
+**Software Engineer | Mobile Application Developer (Flutter & Dart)**
 
-- [cite_start]🔭 I’m currently working on my educational platform project **EduZone**.
-- [cite_start]✅ I just finished my food store project **Crunch**.
-- [cite_start]🌱 I’m currently refining my expertise in **SOLID Principles**, **MVVM**, and **Clean Architecture**.
-- [cite_start]💬 Ask me about Flutter, Dart, Firebase, and REST APIs[cite: 9, 12, 18].
+- 🔭 I’m currently working on my educational platform project **EduZone**.
+- ✅ I just finished my food store project **Crunch**.
+- 🌱 I’m currently refining my expertise in **SOLID Principles**, **MVVM**, and **Clean Architecture**.
+- 💬 Ask me about **Flutter, Dart, Firebase, and REST APIs**.
 - 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelghany26/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedabdelghany6666@gmail.com)
 
-### Some Projects
+---
 
-* [cite_start]**Crunch** (Android) (iOS) - Mobile food store application.
-* [cite_start]**EduZone** (Android) (iOS) - Educational platform project.
-* [cite_start]**Doctor_App** (Android) (iOS) - Healthcare management system using Flutter and Firebase[cite: 35, 36].
-* **Shop_App** (Android) (iOS) - Full-featured E-commerce solution[cite: 39, 40].
-* **Sociall_app** (Android) - Networking platform with real-time interactions[cite: 42, 43].
-* **NewsApp** (Android) - Real-time article fetching using News API[cite: 45, 46].
+### Featured Projects 🚀
 
-### Github Stats
-![Ahmed's Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelghany2641997&show_icons=true&theme=radical)
+* **Crunch** - Mobile food store application built with Flutter.
+* **Doctor_App** - Medical booking system using Flutter and Firebase.
+* **Shop_App** - Full-featured E-commerce solution with Provider and RESTful APIs.
+* **Sociall_app** - Networking platform with real-time interactions using Firestore.
+* **NewsApp** - News aggregation app with category-wise browsing.
+* **EduZone** - Educational platform currently under development.
+
+---
+
+### Technical Skills 🛠️
+
+* **Frameworks:** Flutter.
+* **Languages:** Dart.
+* **State Management:** Bloc, Provider.
+* **Architecture:** MVVM, Clean Architecture, SOLID Principles.
+* **Backend:** Firebase (Auth, Firestore, Storage), REST APIs.
+
+---
+
+### GitHub Stats 📊
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelghany2641997&show_icons=true&theme=radical)

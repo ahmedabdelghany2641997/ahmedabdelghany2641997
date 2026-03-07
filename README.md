@@ -2,7 +2,7 @@
 
 **Software Engineer | Mobile Application Developer (Flutter & Dart)**
 
-- 🔭 I’m currently working on my educational platform project **EduZone**.
+🚀 Recently shipped EduZone — a full-scale cross-platform e-learning platform built with Flutter & Supabase.
 - ✅ I just finished my food store project **Crunch**.
 - 🌱 I’m currently refining my expertise in **SOLID Principles**, **MVVM**, and **Clean Architecture**.
 - 💬 Ask me about **Flutter, Dart, Firebase, and REST APIs**.
